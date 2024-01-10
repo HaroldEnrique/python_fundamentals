@@ -1,4 +1,5 @@
 # Python Fundamentals Course
 
-Instructor : Jhonatan Camasca
+Instructor : Jhonatan Camasca  
+
 Alumno : Harold Cotacallapa Mamani
